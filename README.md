@@ -1,6 +1,8 @@
 # LeonardoWallet
 test only 
 // Este es un ejemplo simple para una aplicación de wallet en Rust
+
+
 struct LeonardoWallet {
     private_key: String,
     public_address: String,
